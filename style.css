@@ -89,15 +89,15 @@ section.about{
 }
 h1{
     padding: 20px;
-    color: rgb(251, 255, 207);
+    color: rgba(251, 255, 207, 0.589);
 }
 h3{
     margin-left: 20px;
     line-height: 0.3;
-    color: rgb(251, 255, 207);
+    color: rgba(251, 255, 207, 0);
 }
 p{
     margin-left: 20px;
     line-height: 1.6;
-    color: rgb(251, 255, 207);
+    color: rgba(251, 255, 207, 0);
 }

@@ -78,28 +78,28 @@ section.contact{
 section.about{
     background-color: rgb(124, 124, 216);
     font-size: large;
-    color: black;
+    color: rgb(206, 172, 172);
 }
 .home a{
     color: rgb(47, 217, 240);
     padding: 10px 30px;
-    background-color: black;
+    background-color: rgb(199, 184, 184);
     border-radius: 30px;
     box-shadow: 3px 3px 5px -2px;
 }
 h1{
     padding: 20px;
-    color: rgba(251, 255, 207, 0.589);
+    color: rgb(251, 255, 207);
 }
 h3{
     margin-left: 20px;
     line-height: 0.3;
-    color: rgba(251, 255, 207, 0);
+    color: rgb(251, 255, 207);
 }
 p{
     margin-left: 20px;
     line-height: 1.6;
-    color: rgba(251, 255, 207, 0);
+    color: rgb(233, 233, 229);
 }
 section.service{
     background-color: blue;

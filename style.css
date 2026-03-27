@@ -8,7 +8,7 @@ header img{
 }
 nav a{
     text-decoration: none;
-    color: rgb(241, 247, 247);
+    color: rgba(241, 247, 247, 0);
     font-size: 20px;
     padding: 5px 15px;
     font-family: monospace;
@@ -100,4 +100,7 @@ p{
     margin-left: 20px;
     line-height: 1.6;
     color: rgba(251, 255, 207, 0);
+}
+section.service{
+    background-color: blue;
 }
